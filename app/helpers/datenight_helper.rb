@@ -1,0 +1,2 @@
+module DatenightHelper
+end
